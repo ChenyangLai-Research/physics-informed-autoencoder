@@ -10,25 +10,29 @@
       "original_relative_path": "paper/code_inpaper/detection_AE_euc_newloss.py",
       "sha256": "586b2baed509daa65cdefc206a4131141f563638ad91e61d16e5d2ffd86ee6ad",
       "archived_as": "legacy/01_detection_AE_euc_newloss.py",
-      "notebook_outputs_removed": false
+      "notebook_outputs_removed": false,
+      "archived_sha256": "586b2baed509daa65cdefc206a4131141f563638ad91e61d16e5d2ffd86ee6ad"
     },
     {
       "original_relative_path": "paper/code_inpaper/thr_definition_new.py",
       "sha256": "cbfd7882f89d6cec282fa0128b282b72d6ba7af73d2b5adfb1ff67e9f8f538b8",
       "archived_as": "legacy/02_thr_definition_new.py",
-      "notebook_outputs_removed": false
+      "notebook_outputs_removed": false,
+      "archived_sha256": "cbfd7882f89d6cec282fa0128b282b72d6ba7af73d2b5adfb1ff67e9f8f538b8"
     },
     {
       "original_relative_path": "mssp/methods_comparison_new/detection_AE_2024.py",
       "sha256": "5a8726cd9e10788a5742ab8b55e8c56624a198ad32179bc7ced7bc97a44f0810",
       "archived_as": "legacy/03_detection_AE_2024.py",
-      "notebook_outputs_removed": false
+      "notebook_outputs_removed": false,
+      "archived_sha256": "5a8726cd9e10788a5742ab8b55e8c56624a198ad32179bc7ced7bc97a44f0810"
     },
     {
       "original_relative_path": "paper/code_inpaper/sprt/SPRT_modified.m",
       "sha256": "b3c3b2472f258ffa093a0700b1cc0820ba6f16a758765b7ebb112411fadadf67",
       "archived_as": "legacy/04_SPRT_modified.m",
-      "notebook_outputs_removed": false
+      "notebook_outputs_removed": false,
+      "archived_sha256": "b3c3b2472f258ffa093a0700b1cc0820ba6f16a758765b7ebb112411fadadf67"
     }
   ],
   "recovery_date": "2026-10-23",
