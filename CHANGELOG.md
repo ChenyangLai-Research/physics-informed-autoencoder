@@ -9,3 +9,11 @@ Added an explicit data root, deterministic CPU seeds, dependency declarations, s
 ## Deviations and unverified parts
 
 The runner covers healthy training and held-out reconstruction scores. The archived threshold and MATLAB SPRT code are preserved but are not integrated into this runner. Fault trajectories, threshold calibration and the full paper detection comparison have not been rerun.
+
+## 2026-10-24 release-readiness audit
+
+- Specify Python 3.12, update the pip bootstrap, align default dependency installation with tested pins, and record a macOS transitive snapshot.
+- Validate CLI values, reject empty/nonfinite normalization inputs, protect existing outputs, and record environment metadata.
+- Add version-2 checkpoint protocols with input-file fingerprints. Older checkpoint protocols require retraining.
+- Add regression tests and a CPU CI matrix; CI execution status is reported separately from local tests.
+- Clarify runnable versus archival code, data confidentiality, reproducibility limits and release rights in the documentation.
